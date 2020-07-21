@@ -1,5 +1,5 @@
 # Piano-Colors
-Teclado funcional desarrollado utilizando:
+Pagina web responsiva con teclado funcional desarrollado utilizando:
 * HTML
 * CSS
 * Bootstrap
