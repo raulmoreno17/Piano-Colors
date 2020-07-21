@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+  background-color: #283149;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  font-family: "Arvo", cursive;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-bottom: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+  margin: 2rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin: 2rem;
+  text-shadow: none;
+  color: white;
+}
+
+footer {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+button:focus {
+  outline: none;
+  /*Cancel bootstrap default outline*/
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 1;
+}
+
+.key {
+  border: 5px solid black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 99%;
+  height: 250px;
+  color: transparent;
+}
+
+.char {
+  border: 2px solid black;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  border-radius: 15px;
+  width: 99%;
+  height: 99%;
+  pointer-events: none;
+}
+
+.pianobg {
+  background-color: black;
+  padding: 1rem 1rem 1rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.song {
+  margin: 1rem;
+}
+
+.C {
+  background-color: red;
+}
+
+.D {
+  background-color: orange;
+}
+
+.E {
+  background-color: yellow;
+}
+
+.F {
+  background-color: #0d9644;
+}
+
+.G {
+  background-color: #5fa9d5;
+}
+
+.A {
+  background-color: #803f98;
+}
+
+.B {
+  background-color: #c757a1;
+}
